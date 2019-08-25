@@ -1,0 +1,24 @@
+nav {
+    display:flex;
+    justify-content: space-around;
+    
+}
+h1 {
+    text-align: center
+}
+div ul{
+   
+    list-style-type: none;
+    padding:1px
+}
+ul ul{
+margin:1rem 0 0 0;
+border-bottom: black solid 2px;
+}
+.selected{
+    border: black solid 1px;
+   
+}
+nav a{
+    padding:5px
+}
